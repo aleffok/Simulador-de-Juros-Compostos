@@ -44,3 +44,6 @@ Este projeto foi construído com foco em **experiência do usuário (UX)**, auto
 
 ## 💡 Sobre o Projeto
 Projeto desenvolvido como parte do aprendizado prático em modelagem financeira e automação de planilhas, unindo lógica de programação e estruturação de dados corporativos.
+
+https://1drv.ms/x/c/670a1ade15194142/IQBpGvA3XEnSTYKz0Pr-1TtmAUMyMfiKfv9YWxvGGJ00XW0?e=MjHtXW
+
